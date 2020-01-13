@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDSDataObjects", "RDSDataObjects.csproj", "{86F08595-7AE9-4785-B4FD-3BD320590D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp", "DemoApp\DemoApp.csproj", "{D49D837E-E1E3-4DCF-B7CD-B7270BC8EECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F08595-7AE9-4785-B4FD-3BD320590D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F08595-7AE9-4785-B4FD-3BD320590D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F08595-7AE9-4785-B4FD-3BD320590D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F08595-7AE9-4785-B4FD-3BD320590D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49D837E-E1E3-4DCF-B7CD-B7270BC8EECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49D837E-E1E3-4DCF-B7CD-B7270BC8EECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49D837E-E1E3-4DCF-B7CD-B7270BC8EECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49D837E-E1E3-4DCF-B7CD-B7270BC8EECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5D0D30-9832-4578-89D1-B18751249889}
+	EndGlobalSection
+EndGlobal
